@@ -1,0 +1,296 @@
+Year,Make,Model,Condition,Mileage,MSRP,Ext_color,Int_color,Tranmission,Drivetrain,Dealer_name,Number_Review,Rating,List_Distance,Price,HTML
+2014 ,Maserati,Ghibli S Q4,Used,69251,0,Black,Other,Automatic,AWD,Z Auto Place,0,0.0,5.0,28888,cars.com/vehicledetail/detail/789447605/overview/
+2011 ,Maserati,GranTurismo Base,Used,4503,0,Gray,Black,Automatic,RWD,Ultimate Motorsports Inc.,520,4.8,6.0,39995,cars.com/vehicledetail/detail/793571719/overview/
+2014 ,Maserati,Quattroporte S Q4,Used,24637,0,Silver,Black,Automatic,AWD,Houston Direct Auto,218,4.3,7.0,29991,cars.com/vehicledetail/detail/772158584/overview/
+2016 ,Maserati,Ghibli S Q4,Used,27131,0,Gray,Black,Automatic,AWD,Houston Direct Auto,218,4.3,7.0,33991,cars.com/vehicledetail/detail/789903287/overview/
+2018 ,Maserati,Levante GranLusso,Used,28247,0,Brown,Brown,Automatic,AWD,Audi West Houston,527,4.6,7.0,52993,cars.com/vehicledetail/detail/793759242/overview/
+2016 ,Maserati,Quattroporte S,Used,36452,0,White,Black,Automatic,AWD,Autovision LLC,1,5.0,10.0,34999,cars.com/vehicledetail/detail/786657553/overview/
+2016 ,Maserati,Ghibli S Q4,Used,38611,0,Gray,Black,Automatic,AWD,Nxcess Motorcars,107,2.0,10.0,30888,cars.com/vehicledetail/detail/785397296/overview/
+2016 ,Maserati,Ghibli Base,Used,17479,0,Black,Black,Automatic,RWD,Autovision LLC,1,5.0,10.0,31899,cars.com/vehicledetail/detail/792559884/overview/
+2018 ,Maserati,GranTurismo Sport,New,0,144535,Other,Brown,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,104535,cars.com/vehicledetail/detail/768649842/overview/
+2019 ,Maserati,Quattroporte S,New,0,116445,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,101445,cars.com/vehicledetail/detail/774853074/overview/
+2019 ,Maserati,Levante GTS,New,0,130735,White,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,130735,cars.com/vehicledetail/detail/774222060/overview/
+2019 ,Maserati,Levante Base,New,0,80745,White,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,65745,cars.com/vehicledetail/detail/790418640/overview/
+2019 ,Maserati,Ghibli Base,New,0,89375,Blue,Beige,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,74375,cars.com/vehicledetail/detail/786767568/overview/
+2019 ,Maserati,Levante Trofeo,New,0,173610,White,Red,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,161610,cars.com/vehicledetail/detail/773776705/overview/
+2019 ,Maserati,Levante GranLusso,New,0,93310,Gray,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,78310,cars.com/vehicledetail/detail/786767661/overview/
+2019 ,Maserati,Levante Base,New,0,79990,Gray,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,64990,cars.com/vehicledetail/detail/754100199/overview/
+2019 ,Maserati,Levante Base,New,0,82970,Gray,Brown,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,67970,cars.com/vehicledetail/detail/760414374/overview/
+2019 ,Maserati,Quattroporte S,New,0,117125,Blue,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,97999,cars.com/vehicledetail/detail/768649846/overview/
+2019 ,Maserati,Levante GranLusso,New,0,91980,Gray,Brown,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,76980,cars.com/vehicledetail/detail/750510268/overview/
+2019 ,Maserati,Levante Base,New,0,79065,White,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,67065,cars.com/vehicledetail/detail/754100206/overview/
+2019 ,Maserati,Ghibli S,New,0,87885,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,72885,cars.com/vehicledetail/detail/778676836/overview/
+2019 ,Maserati,Ghibli Base,New,0,88610,Gray,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,73610,cars.com/vehicledetail/detail/786511823/overview/
+2019 ,Maserati,Levante GranLusso,New,0,93450,Blue,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,78450,cars.com/vehicledetail/detail/790642767/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,85970,Blue,Brown,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,70970,cars.com/vehicledetail/detail/766824394/overview/
+2019 ,Maserati,Levante GranLusso,New,0,91370,Blue,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,76370,cars.com/vehicledetail/detail/768649844/overview/
+2019 ,Maserati,Ghibli Base,New,0,85310,Black,Black,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,70310,cars.com/vehicledetail/detail/771990010/overview/
+2019 ,Maserati,Ghibli S,New,0,88985,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,73985,cars.com/vehicledetail/detail/768649884/overview/
+2019 ,Maserati,Levante Base,New,0,80980,Gray,Brown,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,65980,cars.com/vehicledetail/detail/761646358/overview/
+2019 ,Maserati,Ghibli Base,New,0,76965,Black,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,61965,cars.com/vehicledetail/detail/765373486/overview/
+2019 ,Maserati,Ghibli Base,New,0,78350,Gray,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,63350,cars.com/vehicledetail/detail/766718710/overview/
+2019 ,Maserati,Levante GranLusso,New,0,87945,White,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,72945,cars.com/vehicledetail/detail/750510318/overview/
+2019 ,Maserati,Levante GranLusso,New,0,93310,Black,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,78310,cars.com/vehicledetail/detail/786385653/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,85685,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,70685,cars.com/vehicledetail/detail/766718577/overview/
+2019 ,Maserati,Ghibli S GranSport,New,0,94690,Black,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,79690,cars.com/vehicledetail/detail/786511667/overview/
+2019 ,Maserati,Levante GranSport,New,0,91050,Blue,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,76050,cars.com/vehicledetail/detail/750510257/overview/
+2019 ,Maserati,Levante S GranSport,New,0,99560,Gray,Black,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,84560,cars.com/vehicledetail/detail/774853376/overview/
+2019 ,Maserati,Levante GranLusso,New,0,93450,Blue,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,78450,cars.com/vehicledetail/detail/786511669/overview/
+2012 ,Maserati,GranTurismo MC Stradale,Used,32322,0,Red,Black,Automatic,RWD,Mercedes-Benz of Houston Greenway,1059,4.7,12.0,41987,cars.com/vehicledetail/detail/796745291/overview/
+2019 ,Maserati,Ghibli S GranLusso,New,0,95510,Blue,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,83510,cars.com/vehicledetail/detail/786511829/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,88945,Blue,Brown,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,73945,cars.com/vehicledetail/detail/764162456/overview/
+2019 ,Maserati,Quattroporte S GranLusso,New,0,129655,Black,Black,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,115255,cars.com/vehicledetail/detail/767254137/overview/
+2019 ,Maserati,Levante Base,New,0,82055,Black,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,67055,cars.com/vehicledetail/detail/788851381/overview/
+2015 ,Maserati,Quattroporte S Q4,Used,31822,0,Black,Black,Automatic,AWD,Star Motor Cars,32,5.0,13.0,34850,cars.com/vehicledetail/detail/792422800/overview/
+2005 ,Maserati,Quattroporte,Used,66694,0,Gray,Other,Automatic,RWD,Rivera Auto Group,0,0.0,27.0,17995,cars.com/vehicledetail/detail/795199744/overview/
+2006 ,Maserati,Quattroporte,Used,88516,0,Silver,Black,Automatic,RWD,Ron Carter Cadillac Hyundai,7187,4.1,30.0,12288,cars.com/vehicledetail/detail/795318008/overview/
+2009 ,Maserati,GranTurismo,Used,24500,0,Red,Beige,Automanual,RWD,James (Private Seller),0,0.0,34.0,31900,cars.com/vehicledetail/detail/784978316/overview/
+2015 ,Maserati,GranTurismo MC,Used,20394,0,White,Black,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,57105,cars.com/vehicledetail/detail/785692572/overview/
+2019 ,Maserati,Levante GranSport,New,0,90970,Blue,Brown,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,84970,cars.com/vehicledetail/detail/775266237/overview/
+2017 ,Maserati,Ghibli Base,Used,31675,0,Silver,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,36525,cars.com/vehicledetail/detail/785692494/overview/
+2019 ,Maserati,Levante S,New,0,92080,White,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,86080,cars.com/vehicledetail/detail/760333393/overview/
+2019 ,Maserati,Quattroporte S,New,0,115555,Gray,Brown,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,106555,cars.com/vehicledetail/detail/795955576/overview/
+2019 ,Maserati,Levante Base,New,0,83155,Black,Brown,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,77155,cars.com/vehicledetail/detail/775266152/overview/
+2007 ,Maserati,Quattroporte,Used,62576,0,Blue,Other,Automatic,RWD,Ferrari of San Antonio,0,0.0,177.0,16950,cars.com/vehicledetail/detail/785121631/overview/
+2015 ,Maserati,Quattroporte S Q4,Used,29935,0,White,Black,Automatic,AWD,AutoNation Ford Arlington,444,4.6,223.0,32423,cars.com/vehicledetail/detail/789728999/overview/
+2017 ,Maserati,Levante S,Used,32255,0,Silver,Red,Automatic,AWD,Don Davis Ford Lincoln,2327,4.5,226.0,49999,cars.com/vehicledetail/detail/795951193/overview/
+2015 ,Maserati,GranTurismo Sport,Used,21789,0,Black,Brown,Automatic,RWD,Texas Car World,62,4.5,230.0,54995,cars.com/vehicledetail/detail/795830787/overview/
+2012 ,Maserati,GranTurismo S Automatic,Used,21643,0,White,Beige,Automatic,RWD,DFW Auto and Services LLC,0,0.0,231.0,38995,cars.com/vehicledetail/detail/788234191/overview/
+2008 ,Maserati,GranTurismo,Used,39370,0,Other,Brown,Automatic,RWD,Top Line Auto,65,4.6,231.0,26495,cars.com/vehicledetail/detail/778481955/overview/
+2009 ,Maserati,Quattroporte S,Used,36272,0,White,Brown,Automatic,RWD,RPM Garage,2,5.0,232.0,23991,cars.com/vehicledetail/detail/796312842/overview/
+2015 ,Maserati,Ghibli S Q4,Used,19187,0,White,Red,Automatic,AWD,Smart Auto Leasing,24,4.5,233.0,36479,cars.com/vehicledetail/detail/718793553/overview/
+2016 ,Maserati,Ghibli S,Used,24361,0,Gray,Black,Automatic,RWD,Novak Motors,283,4.9,234.0,31357,cars.com/vehicledetail/detail/792801515/overview/
+2017 ,Maserati,Levante S,Used,23723,0,White,Black,Automatic,AWD,DallasLeaseReturns.com,2356,4.9,234.0,54068,cars.com/vehicledetail/detail/795026098/overview/
+2014 ,Maserati,Ghibli S Q4,Used,19784,0,Gray,Black,Automatic,AWD,Auto Park Dallas,21,4.4,235.0,28995,cars.com/vehicledetail/detail/753120774/overview/
+2008 ,Maserati,GranTurismo,Used,32853,0,Gray,Black,Automatic,RWD,Earth Motorcars,375,4.5,236.0,28991,cars.com/vehicledetail/detail/793869708/overview/
+2014 ,Maserati,Ghibli Base,Used,46769,0,Black,Black,Automatic,RWD,Texas Carz,95,4.2,236.0,25899,cars.com/vehicledetail/detail/795190068/overview/
+2017 ,Maserati,Levante Base,Used,39578,0,White,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,47950,cars.com/vehicledetail/detail/793643368/overview/
+2008 ,Maserati,GranTurismo,Used,88137,0,Gray,Gray,Automatic,RWD,Dallas Autos Direct,307,4.6,237.0,22995,cars.com/vehicledetail/detail/784037995/overview/
+2016 ,Maserati,Quattroporte S,Used,33004,0,Blue,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,34950,cars.com/vehicledetail/detail/790329694/overview/
+2014 ,Maserati,GranTurismo MC,Used,19737,0,Other,Black,Automatic,RWD,Dallas Autos Direct,307,4.6,237.0,45995,cars.com/vehicledetail/detail/770815225/overview/
+2014 ,Maserati,Ghibli S Q4,Used,32827,0,Other,Other,Automatic,AWD,Tradeline Motorcars,16,3.1,237.0,28347,cars.com/vehicledetail/detail/793470690/overview/
+2018 ,Maserati,Quattroporte S GranLusso,Used,9858,0,Black,Other,Automatic,RWD,eCarOne.com,2060,4.9,237.0,67750,cars.com/vehicledetail/detail/792034865/overview/
+2017 ,Maserati,Levante S,Used,29999,0,Gray,Red,Automatic,AWD,eCarOne.com,2060,4.9,237.0,53950,cars.com/vehicledetail/detail/794519139/overview/
+2018 ,Maserati,Ghibli Base,Used,20495,0,White,Black,Automatic,RWD,Grubbs Volvo Cars Grapevine,0,0.0,237.0,40000,cars.com/vehicledetail/detail/789520793/overview/
+2019 ,Maserati,Ghibli S GranSport,Used,6224,0,Black,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,65950,cars.com/vehicledetail/detail/792034869/overview/
+2018 ,Maserati,Levante GranLusso,Used,19673,0,Silver,Brown,Automatic,AWD,Texas Hot Rides,27,2.8,237.0,58991,cars.com/vehicledetail/detail/790106992/overview/
+2014 ,Maserati,Quattroporte S Q4,Used,20712,0,Gray,Brown,Automatic,AWD,Auto Merchants Inc.,105,3.5,238.0,29900,cars.com/vehicledetail/detail/751288173/overview/
+2018 ,Maserati,Ghibli S,Used,12405,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,43290,cars.com/vehicledetail/detail/792207836/overview/
+2015 ,Maserati,Ghibli Base,Used,29575,0,Red,Brown,Automatic,RWD,Auto Merchants Inc.,105,3.5,238.0,27900,cars.com/vehicledetail/detail/785996479/overview/
+2016 ,Maserati,Ghibli S Q4,Used,37296,0,Gray,Black,Automatic,AWD,Auto Merchants Inc.,105,3.5,238.0,26900,cars.com/vehicledetail/detail/781118660/overview/
+2017 ,Maserati,Base,Used,35712,0,Black,Brown,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,33190,cars.com/vehicledetail/detail/790490886/overview/
+2016 ,Maserati,Ghibli S Q4,Used,27951,0,Black,Black,Automatic,AWD,Autos of Dallas,1117,4.1,238.0,34990,cars.com/vehicledetail/detail/795054801/overview/
+2017 ,Maserati,Levante S,Used,22700,0,White,Black,Automatic,AWD,Autos of Dallas,1117,4.1,238.0,52290,cars.com/vehicledetail/detail/780783338/overview/
+2018 ,Maserati,Ghibli Base,Used,28149,0,Black,Brown,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,39990,cars.com/vehicledetail/detail/796544490/overview/
+2017 ,Maserati,Base,Used,26646,0,White,Brown,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,33590,cars.com/vehicledetail/detail/795055077/overview/
+2016 ,Maserati,Ghibli Base,Used,33740,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,28990,cars.com/vehicledetail/detail/793632123/overview/
+2019 ,Maserati,Levante Trofeo,New,0,172465,Black,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,172465,cars.com/vehicledetail/detail/773119426/overview/
+2019 ,Maserati,Quattroporte S Q4,Used,5861,0,White,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,79900,cars.com/vehicledetail/detail/784790759/overview/
+2019 ,Maserati,Levante GTS,Used,42,0,Gray,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,114525,cars.com/vehicledetail/detail/761068741/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/744032619/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/743375149/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/743375241/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/744847840/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/744224632/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,White,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/743375247/overview/
+2016 ,Maserati,Quattroporte S Q4,Used,37731,0,White,Black,Automatic,AWD,Reserve Auto Group,0,0.0,244.0,35000,cars.com/vehicledetail/detail/792523447/overview/
+2016 ,Maserati,Quattroporte S,Used,8460,0,White,Black,Automatic,RWD,Reserve Auto Group,0,0.0,244.0,39900,cars.com/vehicledetail/detail/796020112/overview/
+2016 ,Maserati,Quattroporte S,Used,29594,0,Gray,Black,Automatic,RWD,Reserve Auto Group,0,0.0,244.0,35000,cars.com/vehicledetail/detail/792523443/overview/
+2016 ,Maserati,Quattroporte S,Used,16998,0,White,Black,Automatic,RWD,Reserve Auto Group,0,0.0,244.0,39000,cars.com/vehicledetail/detail/792523492/overview/
+2017 ,Maserati,Levante S,Used,13992,0,Black,Black,Automatic,AWD,Jaguar Land Rover Frisco,150,4.1,246.0,55299,cars.com/vehicledetail/detail/792577648/overview/
+2014 ,Maserati,Ghibli Base,Used,33070,0,Gray,Black,Automatic,RWD,Bosco Auto Group,6,3.5,247.0,24995,cars.com/vehicledetail/detail/794808394/overview/
+2016 ,Maserati,Ghibli S Q4,Used,45756,0,Red,Beige,Automatic,AWD,Houston Direct Auto,218,4.3,7.0,32500,cars.com/vehicledetail/detail/794759769/overview/
+2015 ,Maserati,Ghibli Base,Used,47000,0,White,Black,Automatic,4x2/2-wheel,Bony (Private Seller),0,0.0,8.0,26000,cars.com/vehicledetail/detail/786302552/overview/
+2015 ,Maserati,Ghibli Base,Used,31765,0,Gray,Other,Automatic,RWD,Autovision LLC,1,5.0,10.0,29999,cars.com/vehicledetail/detail/786657540/overview/
+2016 ,Maserati,Ghibli S,Used,31800,0,Blue,Beige,Automatic,RWD,Nxcess Motorcars,107,2.0,10.0,31888,cars.com/vehicledetail/detail/787316832/overview/
+2019 ,Maserati,Ghibli S GranLusso,New,0,90455,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,75455,cars.com/vehicledetail/detail/774853099/overview/
+2019 ,Maserati,Levante GranLusso,New,0,88510,Gray,Red,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,73510,cars.com/vehicledetail/detail/790418605/overview/
+2019 ,Maserati,GranTurismo Sport,New,0,164070,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,144070,cars.com/vehicledetail/detail/764800124/overview/
+2019 ,Maserati,Ghibli S Q4 GranSport,New,0,96870,Black,Black,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,81870,cars.com/vehicledetail/detail/750510264/overview/
+2019 ,Maserati,Levante S,New,0,96350,Gray,Black,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,81350,cars.com/vehicledetail/detail/771989954/overview/
+2019 ,Maserati,Levante GranLusso,New,0,93310,Black,Beige,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,78310,cars.com/vehicledetail/detail/790642842/overview/
+2019 ,Maserati,Ghibli Base,New,0,80700,White,Black,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,65700,cars.com/vehicledetail/detail/760036574/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,89020,Blue,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,74020,cars.com/vehicledetail/detail/771990019/overview/
+2019 ,Maserati,Ghibli S GranLusso,New,0,92215,White,Beige,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,77215,cars.com/vehicledetail/detail/750880882/overview/
+2019 ,Maserati,Levante S GranLusso,New,0,102946,Black,Black,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,87946,cars.com/vehicledetail/detail/788851119/overview/
+2012 ,Maserati,GranTurismo Sport,Used,40046,0,White,Beige,Automatic,RWD,Mercedes-Benz of Houston Greenway,1059,4.7,12.0,41391,cars.com/vehicledetail/detail/795039854/overview/
+2019 ,Maserati,Levante Base,New,0,79275,White,Black,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,74275,cars.com/vehicledetail/detail/766933560/overview/
+2016 ,Maserati,Ghibli Base,Used,35713,0,White,Black,Automatic,RWD,Texas Auto North,28,4.4,21.0,31500,cars.com/vehicledetail/detail/789542630/overview/
+2015 ,Maserati,Ghibli Base,Used,29105,0,Gray,Black,Automatic,RWD,Texans Auto Group,98,4.1,27.0,29950,cars.com/vehicledetail/detail/782970348/overview/
+2017 ,Maserati,Levante S,Used,42665,0,Gray,Black,Automatic,AWD,Luxury Auto Works,3,5.0,131.0,54995,cars.com/vehicledetail/detail/790436739/overview/
+2017 ,Maserati,Ghibli Base,Used,39440,0,Black,Brown,Automatic,RWD,Luxury Auto Works,3,5.0,131.0,34500,cars.com/vehicledetail/detail/795468684/overview/
+2019 ,Maserati,Ghibli Base,New,0,78880,Gray,Brown,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,68880,cars.com/vehicledetail/detail/751800502/overview/
+2019 ,Maserati,Ghibli S Q4,New,0,91480,Black,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,79480,cars.com/vehicledetail/detail/791284511/overview/
+2019 ,Maserati,Ghibli Base,New,0,78790,Blue,Black,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,68790,cars.com/vehicledetail/detail/789473814/overview/
+2019 ,Maserati,Levante S GranLusso,New,0,108430,Blue,Brown,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,102430,cars.com/vehicledetail/detail/778760451/overview/
+2019 ,Maserati,Quattroporte S Q4,New,0,125045,White,Red,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,116045,cars.com/vehicledetail/detail/787967647/overview/
+2019 ,Maserati,Ghibli S,New,0,92330,White,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,80330,cars.com/vehicledetail/detail/795955757/overview/
+2019 ,Maserati,Levante Base,New,0,86870,Blue,Brown,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,80870,cars.com/vehicledetail/detail/775266250/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,92280,Black,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,82280,cars.com/vehicledetail/detail/793178616/overview/
+2019 ,Maserati,Levante Base,New,0,84680,Gray,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,78680,cars.com/vehicledetail/detail/780146081/overview/
+2019 ,Maserati,GranTurismo,New,0,162535,Gray,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,152535,cars.com/vehicledetail/detail/769679285/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,91300,Black,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,81300,cars.com/vehicledetail/detail/795155345/overview/
+2019 ,Maserati,Levante Base,New,0,85055,Black,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,79055,cars.com/vehicledetail/detail/776931154/overview/
+2019 ,Maserati,Levante Base,New,0,80055,White,Brown,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,74055,cars.com/vehicledetail/detail/751800552/overview/
+2016 ,Maserati,Ghibli Base,Used,34992,0,White,Other,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,31632,cars.com/vehicledetail/detail/782153305/overview/
+2019 ,Maserati,Levante S,New,0,94280,Black,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,88280,cars.com/vehicledetail/detail/760333579/overview/
+2018 ,Maserati,GranTurismo Sport,Used,2017,0,Other,Black,Automatic,RWD,Mark Motors,1,5.0,182.0,86888,cars.com/vehicledetail/detail/777117494/overview/
+2017 ,Maserati,Levante S,Used,36046,0,Other,Other,Automatic,AWD,Mark Motors,1,5.0,182.0,53555,cars.com/vehicledetail/detail/793706457/overview/
+2005 ,Maserati,Quattroporte,Used,29156,0,Red,Beige,Automanual,RWD,Joel (Private Seller),0,0.0,209.0,17995,cars.com/vehicledetail/detail/796519136/overview/
+2013 ,Maserati,GranTurismo Base,Used,25456,0,Black,Other,Automatic,RWD,Service Chevrolet Cadillac,91,4.8,217.0,39000,cars.com/vehicledetail/detail/782665067/overview/
+2013 ,Maserati,Quattroporte S,Used,49344,0,Gray,Beige,Automatic,RWD,Auto One,530,5.0,226.0,33777,cars.com/vehicledetail/detail/672250680/overview/
+2014 ,Maserati,Ghibli Base,Used,44632,0,White,White,Automatic,RWD,Auto One,530,5.0,226.0,30399,cars.com/vehicledetail/detail/732886938/overview/
+2016 ,Maserati,Ghibli Base,Used,37469,0,Black,Other,Automatic,RWD,Heritage Buick GMC,82,4.1,226.0,29400,cars.com/vehicledetail/detail/795808876/overview/
+2010 ,Maserati,GranTurismo,Used,17325,0,Red,Beige,Automatic,RWD,BMW of Dallas,945,4.5,227.0,38985,cars.com/vehicledetail/detail/795037394/overview/
+2014 ,Maserati,Ghibli S Q4,Used,33609,0,Gray,Other,Automatic,AWD,Sewell INFINITI,46,3.1,228.0,26488,cars.com/vehicledetail/detail/790888667/overview/
+2016 ,Maserati,Ghibli Base,Used,20199,0,Blue,Black,Automatic,RWD,Texas Car World,62,4.5,230.0,34995,cars.com/vehicledetail/detail/796758082/overview/
+2010 ,Maserati,GranTurismo Base,Used,31179,0,White,Other,Automatic,RWD,Top Line Auto,65,4.6,231.0,31492,cars.com/vehicledetail/detail/787306228/overview/
+2016 ,Maserati,Ghibli Base,Used,47495,0,Gray,Other,Automatic,RWD,Excellence Auto Direct,285,4.2,233.0,27981,cars.com/vehicledetail/detail/796536131/overview/
+2012 ,Maserati,Quattroporte S,Used,60538,0,Black,Beige,Automatic,RWD,International Motor,19,5.0,236.0,23995,cars.com/vehicledetail/detail/796469237/overview/
+2016 ,Maserati,Quattroporte S,Used,34534,0,Black,Black,Automatic,RWD,Earth Motorcars,375,4.5,236.0,35877,cars.com/vehicledetail/detail/789702778/overview/
+2015 ,Maserati,Quattroporte S Q4,Used,31307,0,Gray,Black,Automatic,AWD,Dallas Autos Direct,307,4.6,237.0,32990,cars.com/vehicledetail/detail/777902360/overview/
+2017 ,Maserati,Ghibli S,Used,19243,0,Black,Red,Automatic,RWD,eCarOne.com,2060,4.9,237.0,39450,cars.com/vehicledetail/detail/794224746/overview/
+2017 ,Maserati,Levante S,Used,29424,0,White,Red,Automatic,AWD,eCarOne.com,2060,4.9,237.0,57250,cars.com/vehicledetail/detail/796272327/overview/
+2017 ,Maserati,Quattroporte S,Used,15256,0,White,Brown,Automatic,RWD,eCarOne.com,2060,4.9,237.0,52950,cars.com/vehicledetail/detail/795730832/overview/
+2018 ,Maserati,Ghibli S GranLusso,Used,17116,0,Gray,Brown,Automatic,RWD,eCarOne.com,2060,4.9,237.0,48950,cars.com/vehicledetail/detail/795341271/overview/
+2015 ,Maserati,Ghibli S Q4,Used,20757,0,White,Other,Automatic,AWD,Dallas Autos Direct,307,4.6,237.0,30995,cars.com/vehicledetail/detail/792099873/overview/
+2018 ,Maserati,Levante GranSport,Used,15051,0,Gray,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,57450,cars.com/vehicledetail/detail/789047972/overview/
+2017 ,Maserati,Ghibli S,Used,21607,0,White,Red,Automatic,RWD,eCarOne.com,2060,4.9,237.0,38950,cars.com/vehicledetail/detail/794224892/overview/
+2017 ,Maserati,Ghibli Base,Used,24892,0,Black,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,33750,cars.com/vehicledetail/detail/795341274/overview/
+2017 ,Maserati,Ghibli Base,Used,26968,0,Black,Red,Automatic,RWD,eCarOne.com,2060,4.9,237.0,34450,cars.com/vehicledetail/detail/792155428/overview/
+2018 ,Maserati,Ghibli S,Used,16740,0,White,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,41440,cars.com/vehicledetail/detail/792960422/overview/
+2017 ,Maserati,Quattroporte S,Used,26659,0,Black,Brown,Automatic,RWD,eCarOne.com,2060,4.9,237.0,50950,cars.com/vehicledetail/detail/795341272/overview/
+2016 ,Maserati,Ghibli S Q4,Used,41372,0,White,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,32240,cars.com/vehicledetail/detail/791944859/overview/
+2017 ,Maserati,Ghibli Base,Used,29935,0,Black,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,33450,cars.com/vehicledetail/detail/790329687/overview/
+2016 ,Maserati,Quattroporte S,Used,33931,0,White,Brown,Automatic,RWD,Auto Merchants Inc.,105,3.5,238.0,34900,cars.com/vehicledetail/detail/790562461/overview/
+2017 ,Maserati,Ghibli Base,Used,22132,0,White,Brown,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,34490,cars.com/vehicledetail/detail/795242647/overview/
+2017 ,Maserati,Ghibli Base,Used,27940,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,33290,cars.com/vehicledetail/detail/795054803/overview/
+2018 ,Maserati,Base,Used,16213,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,41590,cars.com/vehicledetail/detail/795054781/overview/
+2016 ,Maserati,Quattroporte S,Used,26984,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,35490,cars.com/vehicledetail/detail/784034285/overview/
+2016 ,Maserati,Ghibli Base,Used,29203,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,29790,cars.com/vehicledetail/detail/788000307/overview/
+2017 ,Maserati,Ghibli S,Used,44505,0,Gray,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,33490,cars.com/vehicledetail/detail/793632174/overview/
+2017 ,Maserati,Ghibli Base,Used,29803,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,32990,cars.com/vehicledetail/detail/795055062/overview/
+2018 ,Maserati,Ghibli Base,Used,17951,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,40490,cars.com/vehicledetail/detail/777759886/overview/
+2016 ,Maserati,Ghibli S,Used,21590,0,Black,Other,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,31990,cars.com/vehicledetail/detail/793632452/overview/
+2015 ,Maserati,Ghibli Base,Used,15123,0,Gray,Black,Automatic,RWD,Auto Merchants Inc.,105,3.5,238.0,27900,cars.com/vehicledetail/detail/761010078/overview/
+2017 ,Maserati,Base,Used,39464,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,31990,cars.com/vehicledetail/detail/793632162/overview/
+2016 ,Maserati,Ghibli S,Used,44310,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,30490,cars.com/vehicledetail/detail/791965519/overview/
+2016 ,Maserati,Ghibli Base,Used,25446,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,29490,cars.com/vehicledetail/detail/796544416/overview/
+2019 ,Maserati,Levante Trofeo,New,0,171475,White,Red,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,171475,cars.com/vehicledetail/detail/768126079/overview/
+2019 ,Maserati,Levante GranLusso,New,0,89755,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,89755,cars.com/vehicledetail/detail/755591257/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,Red,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/743375248/overview/
+2019 ,Maserati,Levante GranLusso,New,0,92660,Gray,Red,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,92660,cars.com/vehicledetail/detail/754836001/overview/
+2019 ,Maserati,Levante GranLusso,New,0,91980,Blue,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,91980,cars.com/vehicledetail/detail/751936492/overview/
+2019 ,Maserati,Quattroporte S Q4,Used,7870,0,White,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,79900,cars.com/vehicledetail/detail/784790777/overview/
+2019 ,Maserati,Quattroporte S Q4,New,0,117965,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117965,cars.com/vehicledetail/detail/784661921/overview/
+2019 ,Maserati,Quattroporte S Q4,New,0,117965,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117965,cars.com/vehicledetail/detail/775693759/overview/
+2019 ,Maserati,Quattroporte S Q4,New,0,117965,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117965,cars.com/vehicledetail/detail/784790711/overview/
+2019 ,Maserati,Levante S,New,0,97645,Gray,Red,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,97645,cars.com/vehicledetail/detail/754836003/overview/
+2019 ,Maserati,Quattroporte S Q4,New,0,117965,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117965,cars.com/vehicledetail/detail/784790704/overview/
+2019 ,Maserati,Levante S GranLusso,New,0,99755,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,99755,cars.com/vehicledetail/detail/754836043/overview/
+2016 ,Maserati,Ghibli S Q4,Used,17375,0,White,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,39900,cars.com/vehicledetail/detail/793946085/overview/
+2018 ,Maserati,Quattroporte S Q4,New,0,117975,Red,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,117975,cars.com/vehicledetail/detail/744032412/overview/
+2019 ,Maserati,Levante GTS,New,0,134765,Black,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,134765,cars.com/vehicledetail/detail/759066281/overview/
+2019 ,Maserati,Levante,New,0,80400,Blue,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,80400,cars.com/vehicledetail/detail/751936491/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,88320,Gray,Black,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,88320,cars.com/vehicledetail/detail/754836000/overview/
+2019 ,Maserati,Levante Trofeo,New,0,171475,Blue,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,171475,cars.com/vehicledetail/detail/773119315/overview/
+2019 ,Maserati,Levante GranSport,New,0,95850,Gray,Red,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,95850,cars.com/vehicledetail/detail/753947393/overview/
+2019 ,Maserati,Levante GTS,New,0,132665,White,Red,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,132665,cars.com/vehicledetail/detail/761068739/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,90245,Black,Beige,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,90245,cars.com/vehicledetail/detail/761069046/overview/
+2018 ,Maserati,Levante S GranSport,New,0,97305,Black,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,97305,cars.com/vehicledetail/detail/731709174/overview/
+2016 ,Maserati,Quattroporte S,Used,16998,0,White,Black,Automatic,RWD,Reserve Auto Group,0,0.0,244.0,37000,cars.com/vehicledetail/detail/796020239/overview/
+2020 ,Maserati,Ghibli GranLusso,New,0,83305,White,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,83305,cars.com/vehicledetail/detail/792440272/overview/
+2019 ,Maserati,Levante S,New,0,92080,White,Black,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,86080,cars.com/vehicledetail/detail/760333573/overview/
+2012 ,Maserati,GranTurismo Sport,Used,30235,0,Silver,Black,Automatic,RWD,Jordan Motorcars,186,4.6,176.0,46998,cars.com/vehicledetail/detail/773276281/overview/
+2012 ,Maserati,Quattroporte S,Used,67498,0,Black,Black,Automatic,RWD,Auto One,530,5.0,226.0,27999,cars.com/vehicledetail/detail/668234306/overview/
+2017 ,Maserati,Quattroporte S GranLusso,Maserati Certified,906,0,Other,Other,Automatic,RWD,Essence Maserati Alfa Romeo,752,4.7,234.0,65220,cars.com/vehicledetail/detail/782968908/overview/
+2015 ,Maserati,GranTurismo,Used,9477,0,Black,Other,Automatic,RWD,Earth Motorcars,375,4.5,236.0,58881,cars.com/vehicledetail/detail/793447456/overview/
+2011 ,Maserati,GranTurismo,Used,21125,0,Black,Beige,Automatic,RWD,Earth Motorcars,375,4.5,236.0,38441,cars.com/vehicledetail/detail/795253433/overview/
+2011 ,Maserati,GranTurismo,Used,27032,0,Black,Beige,Automatic,RWD,Earth Motorcars,375,4.5,236.0,37000,cars.com/vehicledetail/detail/796526021/overview/
+2012 ,Maserati,GranTurismo S Automatic,Used,9027,0,Black,Red,Automatic,RWD,Dallas Autos Direct,307,4.6,237.0,43990,cars.com/vehicledetail/detail/780241139/overview/
+2017 ,Maserati,Ghibli S Q4,Used,35774,0,Black,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,38240,cars.com/vehicledetail/detail/793643367/overview/
+2017 ,Maserati,Ghibli Base,Used,33915,0,Black,Black,Automatic,RWD,eCarOne.com,2060,4.9,237.0,32440,cars.com/vehicledetail/detail/790635982/overview/
+2019 ,Maserati,Ghibli S Q4,New,0,95070,Gray,Black,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,95070,cars.com/vehicledetail/detail/751936473/overview/
+2018 ,Maserati,Quattroporte S Q4,Used,28,0,White,Brown,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,76975,cars.com/vehicledetail/detail/743375246/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,90305,Black,Black,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,90305,cars.com/vehicledetail/detail/764641251/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,91085,White,Black,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,91085,cars.com/vehicledetail/detail/751936362/overview/
+2019 ,Maserati,Ghibli GranLusso,New,0,83400,Gray,Beige,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,83400,cars.com/vehicledetail/detail/761713686/overview/
+2019 ,Maserati,Ghibli GranSport,New,0,87985,Black,Black,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,87985,cars.com/vehicledetail/detail/755591272/overview/
+2014 ,Maserati,Quattroporte S Q4,Used,47795,0,Black,Black,Automatic,AWD,Steve (Private Seller),0,0.0,247.0,28999,cars.com/vehicledetail/detail/795493334/overview/
+2017 ,Maserati,GranTurismo MC,Used,2012,0,Red,Black,Automatic,RWD,Audi North Houston,46,2.9,26.0,86991,cars.com/vehicledetail/detail/795452642/overview/
+2018 ,Maserati,Sport,Maserati Certified,2679,0,Red,Other,Automatic,RWD,Essence Maserati Alfa Romeo,752,4.7,234.0,89640,cars.com/vehicledetail/detail/780657556/overview/
+2012 ,Maserati,GranTurismo MC,Used,53016,0,Yellow,Black,Automatic,RWD,Momentum Jaguar Volvo Cars Land Rover,197,4.1,6.0,39991,cars.com/vehicledetail/detail/798022294/overview/
+2014 ,Maserati,GranTurismo Sport,Used,22074,0,Other,Other,Automatic,RWD,ABZ Motors,52,4.0,5.0,42995,cars.com/vehicledetail/detail/797125607/overview/
+2010 ,Maserati,GranTurismo Base,Used,21282,0,Gray,Black,Automatic,RWD,Ultimate Motorsports Inc.,520,4.8,6.0,32895,cars.com/vehicledetail/detail/797754649/overview/
+2011 ,Maserati,GranTurismo Base,Used,29656,0,Gray,Beige,Automatic,RWD,Ultimate Motorsports Inc.,520,4.8,6.0,34995,cars.com/vehicledetail/detail/797052565/overview/
+2012 ,Maserati,GranTurismo S Automatic,Used,32800,0,Black,Black,Automatic,RWD,Dannin (Private Seller),0,0.0,8.0,31000,cars.com/vehicledetail/detail/797784806/overview/
+2016 ,Maserati,Ghibli Base,Used,14170,0,Gray,Brown,Automatic,RWD,Autovision LLC,1,5.0,10.0,33999,cars.com/vehicledetail/detail/786657555/overview/
+2016 ,Maserati,Ghibli Base,Used,28052,0,White,Brown,Automatic,RWD,Autovision LLC,1,5.0,10.0,30999,cars.com/vehicledetail/detail/795056136/overview/
+2016 ,Maserati,Ghibli Base,Used,29885,0,White,Brown,Automatic,RWD,Autovision LLC,1,5.0,10.0,32999,cars.com/vehicledetail/detail/790614712/overview/
+2016 ,Maserati,Ghibli Base,Used,15146,0,Black,Brown,Automatic,RWD,Autovision LLC,1,5.0,10.0,31599,cars.com/vehicledetail/detail/795056158/overview/
+2008 ,Maserati,Quattroporte,Used,99034,0,Red,Brown,Automatic,RWD,TX Auto Group,21,3.8,10.0,13900,cars.com/vehicledetail/detail/790637362/overview/
+2016 ,Maserati,Quattroporte S Q4,Used,64551,0,Gray,Other,Automatic,AWD,XSell Motors,21,3.0,10.0,30850,cars.com/vehicledetail/detail/797263393/overview/
+2014 ,Maserati,Ghibli S Q4,Used,27512,0,White,Beige,Automatic,AWD,XSell Motors,21,3.0,10.0,32850,cars.com/vehicledetail/detail/797897708/overview/
+2011 ,Maserati,GranTurismo S,Used,37353,0,Black,Black,Automatic,RWD,XSell Motors,21,3.0,10.0,35850,cars.com/vehicledetail/detail/797263730/overview/
+2016 ,Maserati,Ghibli S,Used,34833,0,Red,Black,Automatic,RWD,XSell Motors,21,3.0,10.0,31850,cars.com/vehicledetail/detail/797263394/overview/
+2020 ,Maserati,Levante S GranLusso,New,0,102195,Blue,Brown,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,102195,cars.com/vehicledetail/detail/792440276/overview/
+2019 ,Maserati,Levante GranSport,New,0,98465,Blue,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,83465,cars.com/vehicledetail/detail/786385846/overview/
+2019 ,Maserati,GranTurismo Sport,New,0,0,Black,Beige,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,0,cars.com/vehicledetail/detail/797827049/overview/
+2017 ,Maserati,Ghibli Base,Maserati Certified,14027,0,Red,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,38945,cars.com/vehicledetail/detail/797937319/overview/
+2019 ,Maserati,Levante Base,New,0,77475,Black,Other,Automatic,AWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,64475,cars.com/vehicledetail/detail/767142876/overview/
+2016 ,Maserati,Quattroporte S,Maserati Certified,30447,0,Gray,Other,Automatic,RWD,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,298,4.9,12.0,38945,cars.com/vehicledetail/detail/796334530/overview/
+2012 ,Maserati,GranTurismo MC,Used,57000,0,White,Black,Automanual,RWD,JP (Private Seller),0,0.0,17.0,36721,cars.com/vehicledetail/detail/796745626/overview/
+2016 ,Maserati,Ghibli S,Used,35743,0,Black,Black,Automatic,RWD,AutoNation Chrysler Dodge Jeep Ram Spring,860,4.3,28.0,30491,cars.com/vehicledetail/detail/794807540/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,12358,0,White,Other,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/785798859/overview/
+2019 ,Maserati,Ghibli Base,Maserati Certified,8120,0,Black,Black,Automatic,RWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,52986,cars.com/vehicledetail/detail/785798766/overview/
+2018 ,Maserati,Quattroporte S,Maserati Certified,10418,0,Black,Other,Automatic,RWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,66196,cars.com/vehicledetail/detail/790637238/overview/
+2019 ,Maserati,Ghibli Base,Maserati Certified,9022,0,White,Black,Automatic,RWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,52986,cars.com/vehicledetail/detail/790637235/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,6738,0,Black,Other,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/785798791/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,6715,0,Black,Other,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/785798768/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,9386,0,White,Other,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/785798860/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,10799,0,Gray,Other,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/785798925/overview/
+2019 ,Maserati,Levante Base,Maserati Certified,10069,0,White,Beige,Automatic,AWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,60896,cars.com/vehicledetail/detail/790637237/overview/
+2018 ,Maserati,Ghibli GranLusso,Maserati Certified,5957,0,White,Black,Automatic,RWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,54296,cars.com/vehicledetail/detail/790637098/overview/
+2019 ,Maserati,Base,Maserati Certified,10010,0,Black,Other,Automatic,RWD,Northside Fiat - Alfa Romeo - Maserati,184,4.2,30.0,52986,cars.com/vehicledetail/detail/790637234/overview/
+2014 ,Maserati,Ghibli S Q4,Used,41303,0,Gray,Black,Automatic,AWD,Texas Auto South,79,3.5,32.0,28698,cars.com/vehicledetail/detail/797707227/overview/
+2006 ,Maserati,Quattroporte Sport GT,Used,73600,0,Beige,Brown,Automanual,RWD,Jeff (Private Seller),0,0.0,128.0,19000,cars.com/vehicledetail/detail/777668837/overview/
+2017 ,Maserati,Levante S,Used,6511,0,White,Beige,Automatic,AWD,Porsche Austin,58,3.8,130.0,60862,cars.com/vehicledetail/detail/797547761/overview/
+2014 ,Maserati,Ghibli Base,Used,34636,0,Black,Black,Automatic,RWD,Hi Tech Luxury Imports,3,2.3,136.0,27691,cars.com/vehicledetail/detail/795528416/overview/
+2020 ,Maserati,Levante S,New,0,0,Other,Other,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,0,cars.com/vehicledetail/detail/794314813/overview/
+2014 ,Maserati,Ghibli S Q4,Used,67680,0,Black,Other,Automatic,AWD,Hi Tech Luxury Imports,3,2.3,136.0,0,cars.com/vehicledetail/detail/797919424/overview/
+2018 ,Maserati,GranTurismo Sport,Used,9636,0,Silver,Brown,Automatic,RWD,brian (Private Seller),0,0.0,172.0,114000,cars.com/vehicledetail/detail/797326353/overview/
+2016 ,Maserati,Ghibli S Q4,Used,25725,0,White,Beige,Automatic,AWD,DNA AUTOBROKERS,1,5.0,175.0,32888,cars.com/vehicledetail/detail/797548723/overview/
+2017 ,Maserati,Levante S,Used,19566,0,Silver,Other,Automatic,AWD,Audi Dominion,296,4.3,177.0,54991,cars.com/vehicledetail/detail/797803023/overview/
+2014 ,Maserati,Ghibli S Q4,Used,31919,0,White,Brown,Automatic,AWD,Ride N Drive,13,3.6,226.0,27988,cars.com/vehicledetail/detail/797122771/overview/
+2019 ,Maserati,Ghibli S Q4,Used,5825,0,Black,Black,Automatic,AWD,BMW of Dallas,945,4.5,227.0,58795,cars.com/vehicledetail/detail/797616661/overview/
+2015 ,Maserati,Ghibli Base,Used,33000,0,Black,Black,Automatic,4x2/2-wheel,Jay (Private Seller),0,0.0,229.0,32000,cars.com/vehicledetail/detail/796310705/overview/
+2016 ,Maserati,Ghibli Base,Used,32472,0,Black,Other,Automatic,RWD,Central Autohaus,53,4.5,233.0,26888,cars.com/vehicledetail/detail/797057784/overview/
+2014 ,Maserati,Ghibli S Q4,Used,66147,0,Gray,Brown,Automatic,AWD,Texas Cars Direct,182,4.8,233.0,26459,cars.com/vehicledetail/detail/797838955/overview/
+2018 ,Maserati,Levante Base,Maserati Certified,15048,0,White,Other,Automatic,AWD,Essence Maserati Alfa Romeo,752,4.7,234.0,52950,cars.com/vehicledetail/detail/797732511/overview/
+2014 ,Maserati,GranTurismo Sport,Used,27260,0,Gray,Red,Automatic,RWD,Audi Fort Worth,259,4.7,234.0,57000,cars.com/vehicledetail/detail/797923319/overview/
+2015 ,Maserati,Ghibli S Q4,Used,40802,0,White,Other,Automatic,AWD,"Extreme Sportcars, Inc.",4,5.0,235.0,31990,cars.com/vehicledetail/detail/796470815/overview/
+2014 ,Maserati,Ghibli Base,Used,38678,0,White,Other,Automatic,RWD,Auto Web Expo,384,4.8,236.0,24989,cars.com/vehicledetail/detail/797903504/overview/
+2009 ,Maserati,GranTurismo S,Used,29735,0,Red,Black,Automatic,RWD,Zigler Motors,13,3.9,236.0,35900,cars.com/vehicledetail/detail/797652797/overview/
+2013 ,Maserati,GranTurismo Sport,Used,38005,0,Black,Black,Automatic,RWD,Earth Motorcars,375,4.5,236.0,57991,cars.com/vehicledetail/detail/797785690/overview/
+2017 ,Maserati,Quattroporte S,Used,20187,0,White,Brown,Automatic,RWD,Earth Motorcars,375,4.5,236.0,47999,cars.com/vehicledetail/detail/797537296/overview/
+2017 ,Maserati,Ghibli S,Used,12837,0,Gray,Brown,Automatic,RWD,Earth Motorcars,375,4.5,236.0,38999,cars.com/vehicledetail/detail/797537394/overview/
+2016 ,Maserati,Ghibli Base,Used,22378,0,Brown,Other,Automatic,RWD,Alfa Romeo of Fort Worth,100,4.3,237.0,31840,cars.com/vehicledetail/detail/796135863/overview/
+2004 ,Maserati,Coupe GT,Used,65359,0,Gray,Black,Automatic,RWD,Dallas Autos Direct,307,4.6,237.0,14995,cars.com/vehicledetail/detail/785648779/overview/
+2011 ,Maserati,GranTurismo S,Used,49636,0,Black,Beige,Automatic,RWD,Grubbs INFINITI,769,4.7,237.0,37900,cars.com/vehicledetail/detail/797514829/overview/
+2017 ,Maserati,Levante S,Used,28417,0,White,Brown,Automatic,AWD,eCarOne.com,2060,4.9,237.0,0,cars.com/vehicledetail/detail/797354649/overview/
+2017 ,Maserati,Ghibli S,Used,29489,0,Silver,Red,Automatic,RWD,eCarOne.com,2060,4.9,237.0,38950,cars.com/vehicledetail/detail/797150209/overview/
+2017 ,Maserati,Ghibli S Q4,Used,12579,0,Black,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,40950,cars.com/vehicledetail/detail/794519130/overview/
+2017 ,Maserati,Levante S,Used,29094,0,Black,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,56450,cars.com/vehicledetail/detail/797813687/overview/
+2014 ,Maserati,Quattroporte S Q4,Used,36184,0,Gray,Black,Automatic,AWD,eCarOne.com,2060,4.9,237.0,29950,cars.com/vehicledetail/detail/797561225/overview/
+2017 ,Maserati,Ghibli Base,Used,63821,0,Black,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,28990,cars.com/vehicledetail/detail/797631071/overview/
+2018 ,Maserati,Levante Base,Used,18707,0,White,Brown,Automatic,AWD,Autos of Dallas,1117,4.1,238.0,52890,cars.com/vehicledetail/detail/797631062/overview/
+2017 ,Maserati,Ghibli Base,Used,18878,0,White,Beige,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,33990,cars.com/vehicledetail/detail/797011453/overview/
+2018 ,Maserati,Ghibli S GranLusso,Used,32086,0,White,Other,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,41490,cars.com/vehicledetail/detail/797631053/overview/
+2017 ,Maserati,Ghibli Base,Used,26249,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,32990,cars.com/vehicledetail/detail/797011378/overview/
+2016 ,Maserati,Ghibli S,Used,39221,0,White,Black,Automatic,RWD,Autos of Dallas,1117,4.1,238.0,29990,cars.com/vehicledetail/detail/797011495/overview/
+2011 ,Maserati,GranTurismo,Used,10211,0,Black,Black,Automatic,RWD,Audi Plano,788,4.5,239.0,42744,cars.com/vehicledetail/detail/796996398/overview/
+2016 ,Maserati,GranTurismo Sport,Used,1416,0,Black,Black,Automatic,RWD,Boardwalk Ferrari Maserati,776,4.9,239.0,78900,cars.com/vehicledetail/detail/797331738/overview/
+2020 ,Maserati,Levante Base,New,0,80585,Blue,Beige,Automatic,AWD,Boardwalk Ferrari Maserati,776,4.9,239.0,80585,cars.com/vehicledetail/detail/796734588/overview/
+2015 ,Maserati,Ghibli S Q4,Used,39477,0,White,Red,Automatic,AWD,Classic BMW,155,4.8,242.0,30179,cars.com/vehicledetail/detail/797934626/overview/
+2017 ,Maserati,Levante S,Used,25999,0,White,Beige,Automatic,AWD,Kevin (Private Seller),0,0.0,244.0,54500,cars.com/vehicledetail/detail/797001788/overview/
+2017 ,Maserati,Levante Base,Used,15600,0,Black,Brown,Automatic,AWD,Mark (Private Seller),0,0.0,245.0,54500,cars.com/vehicledetail/detail/797038458/overview/
