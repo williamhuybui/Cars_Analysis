@@ -11,5 +11,5 @@ Four hours scraping data with different regular expression technique and changin
 
 
 # Resources
-https://www.cars.com/
-https://windscribe.com/
+* https://www.cars.com/
+* https://windscribe.com/
